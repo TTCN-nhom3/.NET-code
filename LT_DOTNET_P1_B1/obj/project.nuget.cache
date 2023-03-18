@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQRk3gWv31wEgxFMB419cJlLonIhacQsnvhSTePlDbz9rhBt2oX6crVLWWdPCqjkfustFkKRuFVGw0NEtdpwKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\Thuat toan\\Assignments\\Lesson 1\\Answers\\LT_DOTNET_P1_B1\\LT_DOTNET_P1_B1\\LT_DOTNET_P1_B1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
