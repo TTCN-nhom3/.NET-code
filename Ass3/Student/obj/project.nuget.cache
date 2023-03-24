@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DF8ATL0q5Chp7iBYsrXvKiQeNFCBDSxXHyQH354KnCJxEd8HXdb4KBPm8wA+iGjZwswrvrG08/PDOcu8G5vgPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\Thuat toan\\Assignments\\Lesson 4\\Answers\\NguyenLinhTruong_2020608162_sol41\\Student\\Student.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

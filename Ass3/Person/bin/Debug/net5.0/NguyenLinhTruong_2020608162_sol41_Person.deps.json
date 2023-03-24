@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NguyenLinhTruong_2020608162_sol41_Person/1.0.0": {
+        "runtime": {
+          "NguyenLinhTruong_2020608162_sol41_Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenLinhTruong_2020608162_sol41_Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
