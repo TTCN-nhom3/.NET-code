@@ -1,0 +1,11 @@
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\bin\Debug\WindowsFormsApp1_ChonSach.exe.config
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\bin\Debug\WindowsFormsApp1_ChonSach.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\bin\Debug\WindowsFormsApp1_ChonSach.pdb
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.csproj.AssemblyReference.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.csproj.SuggestedBindingRedirects.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.ChonSach.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.Properties.Resources.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.csproj.GenerateResource.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.csproj.CoreCompileInputs.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_ChonSach\obj\Debug\WindowsFormsApp1_ChonSach.pdb

@@ -1,0 +1,11 @@
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\bin\Debug\WindowsFormsApp1_QLNV.exe.config
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\bin\Debug\WindowsFormsApp1_QLNV.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\bin\Debug\WindowsFormsApp1_QLNV.pdb
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.csproj.AssemblyReference.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.csproj.SuggestedBindingRedirects.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.Properties.Resources.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.QLNV.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.csproj.GenerateResource.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.csproj.CoreCompileInputs.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_QLNV\obj\Debug\WindowsFormsApp1_QLNV.pdb

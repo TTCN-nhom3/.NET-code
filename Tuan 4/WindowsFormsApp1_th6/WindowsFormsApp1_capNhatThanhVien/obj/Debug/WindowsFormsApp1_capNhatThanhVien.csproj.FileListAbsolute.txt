@@ -1,0 +1,11 @@
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\bin\Debug\WindowsFormsApp1_capNhatThanhVien.exe.config
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\bin\Debug\WindowsFormsApp1_capNhatThanhVien.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\bin\Debug\WindowsFormsApp1_capNhatThanhVien.pdb
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.csproj.AssemblyReference.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.csproj.SuggestedBindingRedirects.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.CapNhatTV.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.Properties.Resources.resources
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.csproj.GenerateResource.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.csproj.CoreCompileInputs.cache
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.exe
+E:\c#\WindowsFormsApp1_th6\WindowsFormsApp1_capNhatThanhVien\obj\Debug\WindowsFormsApp1_capNhatThanhVien.pdb
