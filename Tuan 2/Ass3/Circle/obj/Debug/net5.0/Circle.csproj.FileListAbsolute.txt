@@ -1,0 +1,16 @@
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.csproj.AssemblyReference.cache
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.AssemblyInfoInputs.cache
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.AssemblyInfo.cs
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.csproj.CoreCompileInputs.cache
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.exe
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.deps.json
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.runtimeconfig.json
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.runtimeconfig.dev.json
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.dll
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\bin\Debug\net5.0\Circle.pdb
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.dll
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\refint\Circle.dll
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.pdb
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\Circle.genruntimeconfig.cache
+D:\Study\2nd year 2nd extra semester\.NET Programming\Assignments\Lesson 4\Answers\NguyenLinhTruong_2020608162_sol41\Circle\obj\Debug\net5.0\ref\Circle.dll
