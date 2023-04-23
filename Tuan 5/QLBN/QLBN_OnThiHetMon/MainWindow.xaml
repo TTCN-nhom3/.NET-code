@@ -1,0 +1,122 @@
+﻿<Window x:Class="QLBN_OnThiHetMon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLBN_OnThiHetMon"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="550" Width="820" Loaded="Form_Loaded">
+    <Window.Resources>
+        <Style x:Key="TextBoxStyle" TargetType="{x:Type TextBox}">
+            <Setter Property="FontFamily" Value="Time New Roman"/>
+            <Setter Property="Foreground" Value="Blue"/>
+        </Style>
+        <Style x:Key="DataGridColumnHeaderStyle" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+        <Style x:Key="ButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Ellipse Fill="Aqua"/>
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="Gray"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Grid>
+                                    <Ellipse Fill="Aquamarine"/>
+                                    <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Foreground" Value="LightBlue"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Grid>
+                                    <Ellipse Fill="Blue"/>
+                                    <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Height="530" Width=" 800">
+        <Label
+            Content="Mã bệnh nhân:" Height="40" Width="200" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="10 20 0 0"/>
+        <TextBox Style="{DynamicResource TextBoxStyle}"
+            x:Name="txtID" Height="40" Width="350" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="250 20 0 0"/>
+        <Label
+            Content="Họ tên:" Height="40" Width="200" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="10 70 0 0"/>
+        <TextBox Style="{DynamicResource TextBoxStyle}"
+            x:Name="txtName" Height="40" Width="350" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="250 70 0 0"/>
+        <Label
+            Content="Số ngày nằm viện:" Height="40" Width="200" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="10 120 0 0"/>
+        <TextBox Style="{DynamicResource TextBoxStyle}"
+            x:Name="txtNum" Height="40" Width="350" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="250 120 0 0"/>
+        <Label
+            Content="Khoa khám:" Height="40" Width="200" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="10 170 0 0"/>
+        <ComboBox
+            x:Name="cbb" Height="40" Width="350" FontSize="18"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="250 170 0 0"/>
+        <DataGrid ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle}"
+            SelectedCellsChanged="dtg_SelectedCellsChanged"
+            x:Name="dtg" Height="180" Width="780" FontSize="16"
+            HorizontalAlignment="Center" VerticalAlignment="Top"
+            VerticalContentAlignment="Center" Margin="0 230 0 0"
+            AutoGenerateColumns="False" AlternatingRowBackground="AntiqueWhite">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding MaBn}"  Width="120"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}"  Width="180"/>
+                <DataGridTextColumn Header="Tên khoa" Binding="{Binding TenKhoa}"  Width="160"/>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"  Width="150"/>
+                <DataGridTextColumn Header="Viện phí" Binding="{Binding Fee}"  Width="*" FontWeight="Bold"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Style="{DynamicResource ButtonStyle}"
+                Click="btnAdd_Click"
+            x:Name="btnAdd" Height="40" Width="150" FontSize="18"
+            Content="Thêm" Margin="0 440 250 0"
+            HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button Style="{DynamicResource ButtonStyle}"
+                 Click="btnSearch_Click"
+            x:Name="btnSearch" Height="40" Width="150" FontSize="18"
+            Content="Tìm" Margin="250 440 0 0"
+            HorizontalAlignment="Center" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
